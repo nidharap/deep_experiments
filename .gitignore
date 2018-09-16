@@ -1,0 +1,7 @@
+*.tgz
+*.zip
+*.gz
+*.bin
+*.txt
+simple-examples/*
+
