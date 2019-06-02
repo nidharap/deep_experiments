@@ -3,8 +3,8 @@ Experiments with deep learning:
 
 ## Vision:
 
-**__FashionMNIST_Experiments.ipynb__**: Pytorch implemntation of custom CNN (basic) and training on FashionMNIST dataset
+**1. FashionMNIST_Experiments.ipynb**: Pytorch implemntation of custom CNN (basic) and training on FashionMNIST dataset
 
 ## NLP:
 
-**__Keras_LSTM.ipynb__**: LSTM implentation using Keras
+**1. Keras_LSTM.ipynb**: LSTM implentation using Keras
