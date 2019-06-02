@@ -4,4 +4,5 @@
 *.bin
 *.txt
 simple-examples/*
-
+.DS_Store
+.ipynb_checkpoints/
